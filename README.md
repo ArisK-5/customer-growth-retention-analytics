@@ -42,8 +42,7 @@ The notebook covers the following areas:
 
 ```bash
 ├── customer_growth_retention_clv.ipynb
-├── data/
-│   └── orders.csv
+├── orders.csv
 └── README.md
 ```
 
@@ -65,7 +64,7 @@ for analytical logic, time-based modeling, and interpretation.
 ### Option 1: Run on Google Colab (recommended)
 1.	Open Google Colab
 2.	Upload customer_growth_retention_clv.ipynb
-3.	Upload the dataset (orders.csv) from the `data/` folder
+3.	Upload the dataset (orders.csv)
 4.	Update the dataset path (csv_file_path) in the notebook
 
 ### Option 2: Run locally (coming soon)
