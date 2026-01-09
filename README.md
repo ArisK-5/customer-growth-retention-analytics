@@ -10,7 +10,7 @@ revenue health assessment, and customer success prioritization.
 
 ---
 
-## Analysis Overview
+## 📖 Analysis Overview
 
 The notebook covers the following areas:
 
@@ -38,16 +38,18 @@ The notebook covers the following areas:
 
 ---
 
-## Project Structure
+## 📁 Repo Structure
 
+```bash
 ├── customer_growth_retention_clv.ipynb
 ├── data/
 │   └── orders.csv
 └── README.md
+```
 
 ---
 
-## Tools & Technologies
+## 🛠 Tools & Technologies
 
 - **Python** (pandas, numpy, matplotlib)
 - **SQL** via **DuckDB**
@@ -58,7 +60,7 @@ for analytical logic, time-based modeling, and interpretation.
 
 ---
 
-## Running the Notebook
+## ⚙️ Running the Notebook
 
 ### Option 1: Run on Google Colab (recommended)
 1.	Open Google Colab
