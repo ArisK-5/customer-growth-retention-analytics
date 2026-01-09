@@ -41,9 +41,10 @@ The notebook covers the following areas:
 ## 📁 Repo Structure
 
 ```bash
-├── customer_growth_retention_clv.ipynb
-├── orders.csv
-└── README.md
+├── LICENSE
+├── README.md
+├── customer_growth_retention_analytics.ipynb
+└── orders.csv
 ```
 
 ---
